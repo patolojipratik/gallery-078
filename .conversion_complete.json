@@ -1,0 +1,15 @@
+{
+  "gallery_id": "gallery-078",
+  "source_name": "akciğer Amfizem.svs",
+  "source_format": "SVS",
+  "width": 26304,
+  "height": 26880,
+  "total_tiles": 3719,
+  "completed_tiles": 3719,
+  "has_label": false,
+  "jpeg_quality": 72,
+  "jpeg_subsampling": 2,
+  "tile_size": 512,
+  "super_tile_size": 2048,
+  "encode_workers": 4
+}
